@@ -3,9 +3,19 @@
 <html>
 
 <head>
-  <title>Civic Engagement Project</title>
+  <title>The Pros and Cons of GPS Location Services in Our Mobile Devices</title>
 </head>
 
 </div>
   </style>
-    body
+      ul {list-style-type: none; background-color: #334; margin: 0; padding: 0; overflow: hidden;}
+      li {float: left;  background-color: #334;}   
+      a {display: block; padding: 8px; color: white}      
+      body {background-color: #D2E0FB; color: black; font-family: Didot}
+
+  </style>
+
+    
+  </body>
+  
+</html>
